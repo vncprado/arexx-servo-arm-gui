@@ -6,7 +6,6 @@ By Vinicius Prado, 2012
 vncprado@gmail.com
 """
 
-import sys
 import gtk
 from serial import Serial
 from time import sleep
