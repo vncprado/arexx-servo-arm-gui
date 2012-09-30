@@ -1,4 +1,5 @@
 # coding:utf-8
+#teste
 import sys
 import gtk
 from serial import Serial
